@@ -1,4 +1,4 @@
-Panic Attack Analysis Dashboard 🧠📊
+                                   🧠📊 Panic Attack Analysis Dashboard 🧠📊
 
 An interactive Power BI dashboard designed to analyze panic attack trends, mental health patterns, and patient-related insights using data visualization techniques.
 This project helps understand behavioral trends, triggers, and analytical patterns through dynamic reports and KPI metrics.
